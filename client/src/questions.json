@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "content":"In the last month, how often have you been upset because of something that happened unexpectedly?"
+    },
+    {
+        "id":2,
+        "content":"In the last month, how often have you felt that you were unable to control the important things in your life?"
+    },
+    {
+        "id":3,
+        "content":"In the last month, how often have you felt nervous and stressed?"
+    },
+    {
+        "id":4,
+        "content":"In the last month, how often have you felt confident about your ability to handle your personal problems?"
+    },
+    {
+        "id":5,
+        "content":"In the last month, how often have you felt that things were going your way?"
+    },
+    {
+        "id":6,
+        "content":"In the last month, how often have you found that you could not cope with all the things that you had to do?"
+    },
+    {
+        "id":7,
+        "content":"In the last month, how often have you been able to control irritations in your life?"
+    },
+    {
+        "id":8,
+        "content":"In the last month, how often have you felt that you were on top of things?"
+    },
+    {
+        "id":9,
+        "content":"In the last month, how often have you been angered because of things that happened that were outside of your control?"
+    },
+    {
+        "id":10,
+        "content":"In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?"
+    }
+]
