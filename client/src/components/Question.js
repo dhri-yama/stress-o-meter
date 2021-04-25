@@ -4,7 +4,6 @@ import check from './../assets/images/check.png'
 
 const Question = ({content,currentques, responses, changeResponse,changeques}) => {
     const [history, setHistory] = useState([[false,false,false,false,false]])
-    console.log(history)
     const change= (point)=>{
         let temp=responses
         temp[currentques-1]=point

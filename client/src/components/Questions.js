@@ -37,7 +37,7 @@ const Questions = () => {
                     </div>
 
                     <Question content={data[currentques-1].content} changeques={setCurrentques} responses={responses} currentques={currentques} changeResponse={setResponses}/>
-        //Back Arrow and Current question number            
+         
                     <div className="flex mt-4">
                         {currentques>1?<div style={{clipPath:"circle()"}} className="bg-gray-300  h-12 w-12 flex justify-center cursor-pointer">
                             <p className="text-5xl font-bold text-white transform -translate-y-1 -translate-x-1" 
